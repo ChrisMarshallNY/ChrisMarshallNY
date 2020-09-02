@@ -1,4 +1,4 @@
-<img src="SimpleLogoWhiteFill-small.png" align="right" />
+<img src="https://github.com/ChrisMarshallNY/ChrisMarshallNY/raw/master/SimpleLogoWhiteFill-small.png" align="right" />
 
 # HI, I'm Chris Marshall
 I'm an experienced software developer, specializing in Apple development ([native Swift](https://developer.apple.com/swift/)).
