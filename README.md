@@ -1,4 +1,4 @@
-<img src="https://github.com/ChrisMarshallNY/ChrisMarshallNY/raw/master/SimpleLogoWhiteFill-small.png" align="right" />
+<img src="https://github.com/ChrisMarshallNY/ChrisMarshallNY/raw/master/Portrait.png" align="right" />
 
 # HI, I'm Chris Marshall
 I'm an experienced software developer, specializing in Apple development ([native Swift](https://developer.apple.com/swift/)).
@@ -46,6 +46,8 @@ My GitHub ID, on its own, doesn't really have much in it. Most of the action is 
 
 ## Other Stuff:
 
+- [This is the Great Rift Valley Software Company Web Site](https://riftvalleysoftware.com) [(Contact Form at the Bottom of the Page)](https://riftvalleysoftware.com#contact)
+- [This is the Little Green Viper Software Development LLC Site](https://littlegreenviper.com)
 - [You can see the various Apple apps that I have, here.](https://littlegreenviper.com/AppDocs/)
 - [You can see my Stack Overflow Story Here.](https://stackoverflow.com/story/chrismarshall) I keep it up to date.
 - [This is My LinkedIn Profile.](https://www.linkedin.com/in/chrismarshallny/)
