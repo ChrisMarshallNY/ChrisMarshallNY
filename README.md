@@ -10,11 +10,23 @@ I started with [Machine Code](https://en.wikipedia.org/wiki/Machine_code), direc
 
 In 1990, I moved to New York, to work for [Nikon Inc.](https://www.nikonusa.com) –The US presence of [the Nikon Corporation](https://nikon.com).
 
-I worked at Nikon for almost 27 years; 25 of them as a manager of a small, high-functioning software development team that mainly worked on "engine" –[(Image processing "pipeline")](https://en.wikipedia.org/wiki/Color_image_pipeline) code; mostly in C++.
+I worked at Nikon for almost 27 years; 25 of them as a manager of a small, high-functioning software development team that mainly worked on "engine" –[(Image processing "pipeline")](https://en.wikipedia.org/wiki/Color_image_pipeline) code; mostly in C++. It was a wonderful (and stressful) experience. Nikon has some of the finest scientists and engineers in the world, and Quality has the status of religious obligation. This has had a huge impact on the quality of the software I write.
 
 During my entire career, I have worked on open-source code, and have [a **HUGE** portfolio and general track record](https://stackoverflow.com/story/chrismarshall), consisting of hundreds of thousands of lines of code, dozens of repos, Web site/blog entries/articles, over a decade of commit history, and [many shipping apps](https://littlegreenviper.com/AppDocs/).
 
-I've written Mac applications since 1986, device drivers, custom UI elements, "full-stack" systems, including iOS app clients, Web sites, content-management systems, open-source libraries and modules, SDKs and APIs, training courses, tutorials, books, and many articles on the Web.
+I've been writing Mac applications since 1986, and have released over 20 [iOS, Mac, Watch and TV apps](https://littlegreenviper.com/AppDocs/) since 2012.
+
+I've written device drivers for [MIDI](https://www.midi.org), [IEEE-488](https://en.wikipedia.org/wiki/IEEE-488), [SCSI](https://en.wikipedia.org/wiki/SCSI), [USB](https://www.usb.org), [Bluetooth](https://www.bluetooth.com), Serial, Ethernet, and WiFi interfaces; sometimes, in [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) and/or [Machine Code](https://en.wikipedia.org/wiki/Machine_code).
+
+I've written embedded operating systems, and have [designed electronic devices](https://littlegreenviper.com/TF30194/TF30194-Manual-1987.pdf) _(Downloads a PDF document)_.
+
+I'm pretty good with hardware, and talking to devices, having started out as an EE. I don't mind WireShark dumps (too much).
+
+I have created many [custom UI elements](https://github.com/RiftValleySoftware/RVS_Spinner), including [CDEFs](https://mirror.informatimago.com/next/developer.apple.com/documentation/mac/Toolbox/Toolbox-306.html) and [WDEFs](http://mirror.informatimago.com/next/developer.apple.com/documentation/mac/Toolbox/Toolbox-290.html#HEADING290-0).
+
+I've written a great deal of prose, which includes tutorials, books, and [many articles on the Web](https://littlegreenviper.com/miscellany/). I have also done technical training for years.
+
+In addition to all of the above, I have authored many "full-stack" systems; which included Web sites, content-management systems, open-source libraries and modules, documentation, support Web sites, iOS app clients, SDKs and APIs.
 
 I'm not famous.
 
