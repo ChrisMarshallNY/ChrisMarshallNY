@@ -1,6 +1,7 @@
-<img src="https://github.com/ChrisMarshallNY/ChrisMarshallNY/raw/master/Portrait.jpg" align="right" />
-
 # HI, I'm Chris Marshall
+
+<img src="https://github.com/ChrisMarshallNY/ChrisMarshallNY/raw/master/Portrait.png" align="right" />
+
 I'm an experienced software developer, specializing in Apple development ([native Swift](https://developer.apple.com/swift/)).
 
 I've been writing software since 1984, and Apple software since 1986.
