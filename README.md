@@ -43,7 +43,7 @@ My GitHub ID, on its own, doesn't really have much in it. Most of the action is 
 
 - [Little Green Viper Software Develoment LLC](https://github.com/LittleGreenViper) (I am the owner of this organization)
 - [The Great Rift Valley Software Company](https://github.com/RiftValleySoftware) (I am the owner of this organization)
-- [BMLT.app](https://github.com/bmlt-enabled) (This is very much a team effort, and I am only a contributor, here)
+- [BMLT Enabled](https://github.com/bmlt-enabled) (This is very much a team effort, and I am only a contributor, here)
 
 ## Other Stuff:
 
