@@ -24,7 +24,7 @@ I have created many [custom UI elements](https://github.com/RiftValleySoftware/R
 
 I've written a great deal of prose, which includes [tutorials](https://littlegreenviper.com/series/bluetooth/), books, and [many articles on the Web](https://littlegreenviper.com/miscellany/). I have also done technical training for years.
 
-In addition to all of the above, I have authored many "full-stack" systems; which included Web sites, content-management systems, open-source libraries and modules, documentation, support Web sites, iOS app clients, SDKs and APIs, and [application servers](https://riftvalleysoftware.com/work/open-source-projects/#baobab).
+In addition to all of the above, I have authored many "full-stack" systems; which included connected Web sites, content-management systems, open-source libraries and modules, documentation, support Web sites, iOS app clients, SDKs and APIs, and [application servers](https://riftvalleysoftware.com/work/open-source-projects/#baobab).
 
 # I'm not famous
 
