@@ -8,7 +8,7 @@ I've been writing software since 1983, and Apple software since 1986.
 
 I've done a **LOT** of open-source code (I was a manager, for most of my career, and needed to keep my "tech chops" up), so I have [a fairly significant open track record](https://stackoverflow.com/story/chrismarshall). There shouldn't be any questions about my technical acumen.
 
-I've been writing Mac applications since 1986, and have released over 20 [iOS, Mac, Watch and TV apps](https://littlegreenviper.com/AppDocs/) since 2012.
+I've been writing Apple software since 1986, and have released over 20 iOS, Mac, Watch and TV apps since 2012 (Many have been deprecated. [Here are the current ones](https://littlegreenviper.com/AppDocs/)).
 
 I've written device drivers for [MIDI](https://www.midi.org), [IEEE-488](https://en.wikipedia.org/wiki/IEEE-488), [SCSI](https://en.wikipedia.org/wiki/SCSI), [USB](https://www.usb.org), [Bluetooth](https://www.bluetooth.com), Serial, Ethernet, and WiFi interfaces; sometimes, in [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) and/or [Machine Code](https://en.wikipedia.org/wiki/Machine_code).
 
