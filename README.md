@@ -28,7 +28,7 @@ In addition to all of the above, I've authored a number of server-based and "ful
 
 # I'm not famous
 
-I've done a lot of stuff, but it hasn't made any "big splashes" in the field. I'm just another schlub with a GitHub account (but an unusually "green" one. See below), and I am quite current, with my last commit, likely, a few minutes ago.
+I've done a lot of stuff, but it hasn't made any "big splashes" in the field. I'm just another schlub with a GitHub account (but an unusually "green" one. See below), and I'm quite current (my last commit was probably a few minutes ago).
 
 # I'm Easy to Find
 
