@@ -4,7 +4,7 @@
 
 I'm an experienced software developer, specializing in Apple development ([native Swift](https://developer.apple.com/swift/)).
 
-I've done a **LOT** of open-source code (I was a manager, for most of my career, and needed to keep my "tech chops" up), so I have [a fairly significant open track record](https://stackoverflow.com/story/chrismarshall). There shouldn't be any questions about my technical acumen.
+I've done a **LOT** of open-source code (I was a manager, for most of my career, and needed to keep my "tech chops" up), so I have [a fairly significant open track record](https://stackoverflow.com/story/chrismarshall).
 
 I've been writing Apple software since 1986, and have released over 20 iOS, Mac, Watch and TV apps since 2012 (Many have been deprecated. [Here are the current ones](https://littlegreenviper.com/AppDocs/)).
 
