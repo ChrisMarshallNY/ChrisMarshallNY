@@ -6,7 +6,7 @@ I'm an experienced software developer, specializing in Apple development ([nativ
 
 I've been writing software since 1984, and Apple software since 1986.
 
-During my entire career, I have worked on open-source code, and have [a **HUGE** portfolio and general track record](https://stackoverflow.com/story/chrismarshall), consisting of hundreds of thousands of lines of code, dozens of repos, Web site/blog entries/articles, over a decade of commit history, and [many shipping apps](https://littlegreenviper.com/AppDocs/).
+During my entire career, I have worked on open-source code, and have [a **HUGE** portfolio and general track record](https://stackoverflow.com/story/chrismarshall).
 
 I've been writing Mac applications since 1986, and have released over 20 [iOS, Mac, Watch and TV apps](https://littlegreenviper.com/AppDocs/) since 2012.
 
