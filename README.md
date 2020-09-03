@@ -16,7 +16,7 @@ I've written [ONVIF](https://onvif.org) software [for Apple devices](https://git
 
 I've written embedded operating systems, and have [designed electronic devices](https://littlegreenviper.com/TF30194/TF30194-Manual-1987.pdf) _(Downloads a PDF document)_.
 
-I've coded in a number of languages, and used many development environments, but, the last few years, I've stuck with [Swift](https://developer.apple.com/swift), and [Xcode](https://developer.apple.com/xcode/).
+I've coded in a number of languages, and used many development and target environments, but, the last few years, I've stuck with [Swift](https://developer.apple.com/swift), and [Xcode](https://developer.apple.com/xcode/), to write apps for all of the Apple operating systems ([iOS](https://apple.com/ios), [iPadOS](https://apple.com/ipados), [MacOS](https://apple.com/macos), [WatchOS](https://apple.com/watchos), and [TVOS](https://apple.com/tvos).
 
 I'm pretty good with hardware, and talking to devices, having started out as an EE. I don't mind WireShark dumps (too much).
 
