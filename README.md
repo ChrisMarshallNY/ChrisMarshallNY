@@ -18,11 +18,11 @@ I've coded in a number of languages, and used many development and target enviro
 
 I'm pretty good with hardware, and talking to devices, having started out as an EE. I don't mind WireShark dumps (too much).
 
-I have created many [custom UI elements](https://github.com/RiftValleySoftware/RVS_Spinner), including [CDEFs](https://mirror.informatimago.com/next/developer.apple.com/documentation/mac/Toolbox/Toolbox-306.html) and [WDEFs](http://mirror.informatimago.com/next/developer.apple.com/documentation/mac/Toolbox/Toolbox-290.html#HEADING290-0).
+I've created many [custom UI elements](https://github.com/RiftValleySoftware/RVS_Spinner), including [CDEFs](https://mirror.informatimago.com/next/developer.apple.com/documentation/mac/Toolbox/Toolbox-306.html) and [WDEFs](http://mirror.informatimago.com/next/developer.apple.com/documentation/mac/Toolbox/Toolbox-290.html#HEADING290-0).
 
 I've written a great deal of prose, which includes [tutorials](https://littlegreenviper.com/series/bluetooth/), books, and [many articles on the Web](https://littlegreenviper.com/miscellany/). I have also done technical training for years.
 
-In addition to all of the above, I have authored many "full-stack" systems; which included content-management systems, open-source libraries and modules, mobile apps, SDKs, APIs, and [application servers](https://riftvalleysoftware.com/work/open-source-projects/#baobab).
+In addition to all of the above, I've authored a number of server-based and "full-stack" systems; including (but not limited to) content-management systems, open-source libraries and modules, mobile apps, SDKs, APIs, and [application servers](https://riftvalleysoftware.com/work/open-source-projects/#baobab).
 
 [I'm also pretty big on documentation.](https://littlegreenviper.com/miscellany/leaving-a-legacy/)
 
