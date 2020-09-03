@@ -24,7 +24,7 @@ I've written a great deal of prose, which includes [tutorials](https://littlegre
 
 In addition to all of the above, I have authored many "full-stack" systems; which included Web sites, content-management systems, open-source libraries and modules, documentation, support Web sites, iOS app clients, SDKs and APIs.
 
-# I'm not famous.
+# I'm not famous
 
 I've done a lot of stuff, but it hasn't made any "big splashes" in the field. I'm just another schlub with a GitHub account (but an unusually "green" one. See below).
 
