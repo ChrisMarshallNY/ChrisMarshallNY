@@ -4,7 +4,7 @@
 
 I'm an experienced software developer, specializing in Apple development ([native Swift](https://developer.apple.com/swift/)).
 
-I've been writing software since 1984, and Apple software since 1986.
+I've been writing software since 1983, and Apple software since 1986.
 
 During my entire career, I have worked on open-source code, and have [a **HUGE** portfolio and general track record](https://stackoverflow.com/story/chrismarshall).
 
