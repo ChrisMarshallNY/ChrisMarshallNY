@@ -18,6 +18,8 @@ I've been writing Mac applications since 1986, and have released over 20 [iOS, M
 
 I've written device drivers for [MIDI](https://www.midi.org), [IEEE-488](https://en.wikipedia.org/wiki/IEEE-488), [SCSI](https://en.wikipedia.org/wiki/SCSI), [USB](https://www.usb.org), [Bluetooth](https://www.bluetooth.com), Serial, Ethernet, and WiFi interfaces; sometimes, in [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) and/or [Machine Code](https://en.wikipedia.org/wiki/Machine_code).
 
+I've written [ONVIF](https://onvif.org) software [for Apple devices](https://github.com/RiftValleySoftware/RVS_ONVIF), and also [OBD](https://en.wikipedia.org/wiki/On-board_diagnostics) software [for Apple devices](https://github.com/RiftValleySoftware/RVS_GTDriver).
+
 I've written embedded operating systems, and have [designed electronic devices](https://littlegreenviper.com/TF30194/TF30194-Manual-1987.pdf) _(Downloads a PDF document)_.
 
 I'm pretty good with hardware, and talking to devices, having started out as an EE. I don't mind WireShark dumps (too much).
