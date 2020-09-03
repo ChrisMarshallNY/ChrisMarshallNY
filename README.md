@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ChrisMarshallNY/ChrisMarshallNY/raw/master/Portrait.png" align="right" />
 
-I'm an experienced software developer, specializing in Apple development ([native Swift](https://developer.apple.com/swift/)).
+I'm an experienced software developer, specializing in Apple development ([native Swift](https://developer.apple.com/swift/)). I write Swift just about every day.
 
 I've been writing software since 1983.
 
