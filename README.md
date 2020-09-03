@@ -40,9 +40,9 @@ I enjoy developing software. To me, it's a joy and a privilege. The job is reall
 
 Also, I grew up in Africa, and learned, quite early in life, that I have it real good, and a **LOT** of people don't have it so good.
 
-I always dreamed of, one day, having the ability to help people in in need.
+I always dreamed that, one day, i'd have the ability to help people in in need.
 
-Software is one way. I've written some software to help out NPOs (I won't link to it directly, but it shouldn't be too hard to figure it out. I'm not ashamed, but we don't really go out of our way to self-promote over the system), and I'm looking at doing more.
+Software is that way, for me. I've written some software to help out NPOs (I won't link to it directly, but it shouldn't be too hard to figure it out. I'm not ashamed, but we don't really go out of our way to self-promote over the system), and I'm looking at doing more.
 
 I'm interested in helping nonprofits and NGOs that are involved in helping people in need.
 
