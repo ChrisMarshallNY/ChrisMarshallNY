@@ -6,12 +6,6 @@ I'm an experienced software developer, specializing in Apple development ([nativ
 
 I've been writing software since 1984, and Apple software since 1986.
 
-I started with [Machine Code](https://en.wikipedia.org/wiki/Machine_code), directly embedded in digital devices, then migrated to writing software for workstations and personal computers. I had my first job, doing "pure software," in 1987 (Dialcom), which was a "big iron" shop. I fairly quickly moved over to General Electric Information Systems, where I worked as a Macintosh developer.
-
-In 1990, I moved to New York, to work for [Nikon Inc.](https://www.nikonusa.com) –The US presence of [the Nikon Corporation](https://nikon.com).
-
-I worked at Nikon for almost 27 years; 25 of them as a manager of a small, high-functioning software development team that mainly worked on "engine" –[(Image processing "pipeline")](https://en.wikipedia.org/wiki/Color_image_pipeline) code; mostly in C++. It was a wonderful (and stressful) experience. Nikon has some of the finest scientists and engineers in the world, and Quality has the status of religious obligation. This has had a huge impact on the quality of the software I write.
-
 During my entire career, I have worked on open-source code, and have [a **HUGE** portfolio and general track record](https://stackoverflow.com/story/chrismarshall), consisting of hundreds of thousands of lines of code, dozens of repos, Web site/blog entries/articles, over a decade of commit history, and [many shipping apps](https://littlegreenviper.com/AppDocs/).
 
 I've been writing Mac applications since 1986, and have released over 20 [iOS, Mac, Watch and TV apps](https://littlegreenviper.com/AppDocs/) since 2012.
