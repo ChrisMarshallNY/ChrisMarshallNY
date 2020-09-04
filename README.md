@@ -62,6 +62,7 @@ My GitHub ID, on its own, doesn't really have much in it. Most of the action is 
 - [This is My Medium Publication.](https://medium.com/chrismarshallny)
 - [This is My Personal Blog (Has the Original Versions of the Medium Articles).](https://littlegreenviper.com/miscellany) It also has a lot of stuff that is not on Medium, [like this](https://littlegreenviper.com/series/bluetooth/).
 - [You can see the various Apple apps that I have, here.](https://littlegreenviper.com/AppDocs/)
+- [Here's a Bunch of Links to Various Open-Source GitHub Pages (Jazzy), and Doxygen Docs](https://open-source-docs.riftvalleysoftware.com)
 - [You can see my Stack Overflow Story Here.](https://stackoverflow.com/story/chrismarshall) I keep it up to date.
 - [This is My LinkedIn Profile.](https://www.linkedin.com/in/chrismarshallny/)
 - [This is my HackerNews Profile.](https://news.ycombinator.com/user?id=ChrisMarshallNY)
