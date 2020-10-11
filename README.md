@@ -68,3 +68,5 @@ My GitHub ID, on its own, doesn't really have much in it. Most of the action is 
 - [This is my HackerNews Profile.](https://news.ycombinator.com/user?id=ChrisMarshallNY)
 
 Basically, if you just Google ["ChrisMarshallNY"](https://www.google.com/search?q=%22ChrisMarshallNY%22), you're likely to see the various places I pop up.
+
+## GitHub Stuff:
