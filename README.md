@@ -1,6 +1,6 @@
 # HI, I'm Chris Marshall
 
-[Go straigth to the GitHub Stuff](#github-stuff)
+[Go straight to the GitHub Stuff](#github-stuff)
 
 <img src="https://github.com/ChrisMarshallNY/ChrisMarshallNY/raw/master/Portrait.png" align="right" />
 
