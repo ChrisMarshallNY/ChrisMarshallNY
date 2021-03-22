@@ -8,7 +8,7 @@ I'm an experienced software developer, specializing in Apple development ([nativ
 
 I've done a **LOT** of open-source code (I was a manager, for most of my career, and needed to keep my "tech chops" up), so I have [a fairly significant open track record](https://stackoverflow.com/story/chrismarshall).
 
-I've been writing Apple software since 1986, and have released over 20 iOS, Mac, Watch and TV apps since 2012 (Many have been deprecated. [Here are the current ones](https://littlegreenviper.com/AppDocs/)). I've been releasing apps, written in Swift, since 2014.
+I've been writing software since 1983, Apple software since 1986, and have released over 20 iOS, Mac, Watch and TV apps since 2012 (Many have been deprecated. [Here are the current ones](https://littlegreenviper.com/AppDocs/)). I've been releasing apps, written in Swift, since 2014.
 
 I've written device drivers for [MIDI](https://www.midi.org), [IEEE-488](https://en.wikipedia.org/wiki/IEEE-488), [SCSI](https://en.wikipedia.org/wiki/SCSI), [USB](https://www.usb.org), [Bluetooth](https://www.bluetooth.com), Serial, Ethernet, and WiFi interfaces; sometimes, in [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) and/or [Machine Code](https://en.wikipedia.org/wiki/Machine_code).
 
