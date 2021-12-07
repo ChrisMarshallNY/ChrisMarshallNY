@@ -1,4 +1,4 @@
-# HI, I'm Chris Marshall
+# Hi, I'm Chris Marshall
 
 [Go straight to the GitHub Stuff](#github-stuff)
 
