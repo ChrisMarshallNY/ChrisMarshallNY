@@ -61,8 +61,9 @@ My GitHub ID, on its own, doesn't really have much in it. Most of the action is 
 ## Other Stuff:
 
 - [This is My StackOverflow Profile](https://stackoverflow.com/users/879365/chris-marshall)
-- [This is the Great Rift Valley Software Company Web Site](https://riftvalleysoftware.com) [(Contact Form at the Bottom of the Page)](https://riftvalleysoftware.com#contact)
+(https://riftvalleysoftware.com#contact)
 - [This is the Little Green Viper Software Development LLC Site](https://littlegreenviper.com)
+- [This is the Great Rift Valley Software Company Web Site](https://riftvalleysoftware.com)
 - [This is My Medium Publication.](https://medium.com/chrismarshallny)
 - [This is My Personal Blog (Has the Original Versions of the Medium Articles).](https://littlegreenviper.com/miscellany) It also has a lot of stuff that is not on Medium, [like this](https://littlegreenviper.com/series/bluetooth/).
 - [You can see the various Apple apps that I have, here.](https://littlegreenviper.com/AppDocs/)
