@@ -34,7 +34,7 @@ I've done a lot of stuff, but it hasn't made any "big splashes" in the field. I'
 
 # I'm Easy to Find
 
-I have two small corporate sites: [The Great Rift Valley Software Company](https://riftvalleysoftware.com), and [Little Green Viper Software Development LLC](https://littlegreenviper.com). They each have simple contact forms that will send email to me directly.
+I have two small corporate sites: [Little Green Viper Software Development LLC](https://littlegreenviper.com), and [The Great Rift Valley Software Company](https://riftvalleysoftware.com) (Currently undergoing revamping). They each have simple contact forms that will send email to me directly.
 
 # I Like to Help People Help People
 
