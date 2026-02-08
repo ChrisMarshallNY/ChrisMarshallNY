@@ -1,8 +1,8 @@
 # Hi, I'm Chris Marshall
 
-[Go straight to the GitHub Stuff](#github-stuff)
-
 <img src="https://github.com/ChrisMarshallNY/ChrisMarshallNY/raw/master/Portrait.png" align="right" />
+
+[Go straight to the GitHub Stuff](#github-stuff)
 
 I'm an experienced software developer, specializing in Apple development ([native Swift](https://developer.apple.com/swift/)).
 
